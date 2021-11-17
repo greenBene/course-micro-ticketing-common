@@ -21,3 +21,5 @@ export * from './events/types/order-status'
 
 export * from './events/expriration-complete-event'
 
+export * from './events/payment-created-event'
+
